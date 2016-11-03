@@ -1,0 +1,67 @@
+# facebook.com
+# my ip: 128.237.134.203
+# tells browser to go find your laptop
+# server gets things you need for your home page and gets it back
+# HTML: things the server sends to us to make your browser look that way
+# browser is where HTML, CSS, and javascript are run
+
+# HTML -> layout
+# CSS-> style
+# javascript -> javascript
+# pwd : current working directory
+# ls: Print Working Directory (e.g. /Users/gracecao/Desktop/myWebsite)
+
+# python3 -m http.server 
+
+http://127.0.0.1:8000
+localhost:8000
+or click on the file (index.html)
+
+webapp: folder with a bunch of static files
+
+
+html: hypertext markup language
+
+rohan varma -> django on youtube
+
+
+id format one thing
+class format multiple
+
+# define high level attributes of the page in the head
+# go to the console to see what isn't working
+
+
+
+# head, margin
+
+
+class -> .name of class
+id -> # name of id
+
+# margin
+# spread
+
+bootstrap: divides page into 12 columns, no more than 12 columns on each row
+allows for mobilely responsive webapps
+
+
+
+xs, sm, md, lg
+
+
+import jquery above javascript
+js works both with and without semicolons
+jQuery allows us to select elements 
+
+javascript is event based
+
+$ in jQuery is a selector
+
+
+Github is version control
+cloud is a repository (repo) of code 
+pull, merge, then push
+
+
+username.github.io
